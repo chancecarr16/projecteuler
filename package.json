@@ -1,0 +1,22 @@
+{
+  "name": "projecteuler",
+  "version": "1.0.0",
+  "description": "Coded by Chance Carr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chancecarr16/projecteuler.git"
+  },
+  "author": "Chance Carr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chancecarr16/projecteuler/issues"
+  },
+  "homepage": "https://github.com/chancecarr16/projecteuler#readme",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
